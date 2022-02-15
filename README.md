@@ -83,3 +83,10 @@ Manual typescript compile:
 ```
 yarn tsc
 ```
+
+TODO:
+Use other 3rd-party components:
+https://github.com/material-components/material-web/tree/master/packages/button
+https://www.fast.design/docs/components/getting-started
+
+Add a web-gl component?
